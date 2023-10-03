@@ -2,9 +2,9 @@
 
 progres belajar di dicoding
 15 september 2023
-*belajar HTML & CSS (21%)
-*belajar framework
-*belajar git
+* belajar HTML & CSS (21%).
+* belajar framework.
+* belajar git.
 
 16 September 2023
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
